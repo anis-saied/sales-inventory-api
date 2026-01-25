@@ -73,4 +73,4 @@ Ce projet est une solution propriétaire. Le code source peut être soumis à de
 
 ## 🧑‍💻 Auteur
 
-Développé avec rigueur par Anis Saied.\*
+Développé avec rigueur par [Anis Saied](https://anis-saied.com).
